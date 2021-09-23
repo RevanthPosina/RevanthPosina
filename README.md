@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Data Science and Machine Learning concepts
 - 👯 I’m looking to collaborate on Data Science projects 
 - 🤔 I’m looking for help with pursuing my career as a Data Scientist
-- 💬 Ask me about Tech , Marvel , DC , Anime
+- 💬 Ask me about Tech
 
