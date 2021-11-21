@@ -4,7 +4,7 @@
          width="45" />, I'm Revanth Posina </h1>
 <h5 align="left">
 
-- 🔭 I’m currently a Software Developer working on Behavioural Analysis, Data Migration, Risk Data Validation and Analysis 
+- 🔭 I’m a Software Developer, currently working on Label Building, Behavioural Analysis, Data Migration, Risk Data Validation and Analysis 
 - 🌱 I’m working on skill development for pursuing my career as a Data Scientist
 - :sparkles: Looking to collaborate on Data Science, Machine Learning projects 
 - 💬 lets talk about Tech and Space 😉
