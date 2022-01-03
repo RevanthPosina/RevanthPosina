@@ -8,6 +8,7 @@
    - 🌱 I’m working on skill development for pursuing my career as a Data Scientist
    - :sparkles: Looking to collaborate on Data Science, Machine Learning projects 
    - 💬 lets talk about Tech and Space 😉 
+   - 🖥️ for more info check out my profile -> [Revanth Posina](https://revanthposina.github.io/)
   
   
  <p>
