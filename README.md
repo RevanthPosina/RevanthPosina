@@ -4,10 +4,10 @@
          width="45" />, I'm Revanth Posina </h1>
 <h5 align="left">
  
-   - 🔭 I’m an aspiring Data scientist Software Developer, currently working on Label Building, Behavioural Analysis models, Data Migration, Risk Data Validation and     
-         Analysis. 
-   - 🌱 I’m working on skill development for pursuing my career as a Data Scientist
-   - :sparkles: Looking to collaborate on Data Science, Machine Learning projects 
+   - 🔭 I’m an aspiring Data Scientist, Software Developer, currently working on player Behavioural Analysis models, Data Migration, 
+         Risk Data Analysis-Validations and also Label model Building. 
+   - 🌱 I’m working on skill development for pursuing my career as a full-time Data Scientist.
+   - :sparkles: Looking to collaborate on Data Science and Machine Learning projects.
    - 💬 lets talk about Tech and Space 😉 
    - 🖥️ for more info check out my portfolio -> [Revanth Posina](https://revanthposina.github.io/)
   
