@@ -5,7 +5,7 @@
 <h5 align="left">
  
  -  🔭 I’m a versatile professional with expertise in Data Engineering, Data Analysis, and Business Intelligence. My work spans building scalable ETL pipelines, conducting data analysis, and      developing insightful dashboards.
- -  🌱 I’m adept at working with cloud platforms like AWS and Azure Databricks, and utilizing tools like Python, SQL, Power BI, Tableau, SSIS, and SSRS to deliver robust data solutions that drive business performance.
+ -  🌱 I’m adept at working with cloud platforms like AWS and Databricks, and utilizing tools like Python, SQL, Power BI, Tableau, SSIS, and SSRS to deliver robust data solutions that drive business performance.
 - 📊 My experience includes building automated data pipelines for faster processing, performing in-depth data analysis to generate actionable insights, and creating real-time visualizations for stakeholders to make informed decisions.
 - 💼 I have worked on projects involving data migration, data quality management, and business intelligence reporting, helping companies achieve their data goals efficiently.
 - 💬 When I’m not working with data, you’ll find me enjoying Anime, following the thrill of F1 racing, watching Cricket, or getting lost in the mysteries of Space.
